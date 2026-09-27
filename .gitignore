@@ -1,0 +1,46 @@
+# --- Environment / secrets ---
+.env
+*.env
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# --- Data / model artifacts ---
+data/*.csv
+data/*.json
+!data/.gitkeep
+checkpoints/
+faiss_index/
+*.index
+
+# --- Database ---
+*.db
+*.sqlite3
+
+# --- Logs ---
+*.log
+logs/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Testing / coverage ---
+.pytest_cache/
+.coverage
+htmlcov/

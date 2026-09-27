@@ -1,0 +1,43 @@
+# --- Agent framework / LLM ---
+langgraph
+langchain
+langchain-groq
+groq
+pydantic
+pydantic-settings
+
+# --- Backend ---
+fastapi
+uvicorn
+
+# --- Frontend ---
+streamlit
+
+# --- Database ---
+sqlalchemy
+psycopg2-binary
+pgvector
+alembic
+
+# --- Data processing ---
+pandas
+numpy
+
+# --- APIs / HTTP ---
+requests
+httpx
+alpaca-py
+
+# --- Embeddings (for SEC filings RAG) ---
+sentence-transformers
+
+# --- Env / config ---
+python-dotenv
+
+# --- Testing ---
+pytest
+pytest-mock
+
+# --- Dev tools ---
+black
+ruff
