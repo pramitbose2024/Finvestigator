@@ -12,4 +12,4 @@ This is not a chatbot wrapper around an LLM. It is a system built around **tool-
 
 ## Disclaimer
 
-FINVESTIGATOR is a research and educational project. It trades on a **paper (simulated) account only**, makes no guarantee of accuracy, and nothing it produces is investment advice.
+Finvestigator is a research and educational project. It trades on a **paper (simulated) account only**, makes no guarantee of accuracy, and nothing it produces is investment advice.
